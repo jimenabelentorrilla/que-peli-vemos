@@ -20,7 +20,7 @@ body {
 .tittle-flex {
     display: flex;
     align-items: flex-end;
-    height: 200px;
+    height: 170px;
     justify-content: center;
 }
 
